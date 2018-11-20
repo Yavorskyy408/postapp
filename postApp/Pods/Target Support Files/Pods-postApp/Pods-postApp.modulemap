@@ -1,0 +1,6 @@
+framework module Pods_postApp {
+  umbrella header "Pods-postApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
